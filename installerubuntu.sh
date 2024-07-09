@@ -1,4 +1,4 @@
-pkg update && pkg upgrade -y
+pkg update -y && pkg upgrade -y
 pkg install wget -y
 pkg install proot -y
 pkg install git -y

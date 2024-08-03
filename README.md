@@ -5,7 +5,7 @@ apt-get install sudo
 apt-get install nano
 ```
 
-# ubuntu
+# install quick ubuntu
 ```BASH
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/belajarit45/docker-qemu-arm/main/termux-setup.sh)" && rm -rf docker-qemu-arm  && cd alpine && ./startqemu.sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/belajarit45/ubuntu/main/installerubuntu.sh)"
 ```BASH

@@ -12,6 +12,9 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/belajarit45/ubuntu/main/
 
 # install shinobi ubuntu
 ```BASH
+apt update && apt upgrade -y
+apt-get install sudo
+apt-get install nano
 sudo apt install git -y
 git clone https://gitlab.com/Shinobi-Systems/Shinobi.git Shinobi
 cd Shinobi

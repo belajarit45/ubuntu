@@ -9,3 +9,12 @@ apt-get install nano
 ```BASH
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/belajarit45/ubuntu/main/installerubuntu.sh)"
 ```
+
+# install shinobi ubuntu
+```BASH
+sudo apt install git -y
+git clone https://gitlab.com/Shinobi-Systems/Shinobi.git Shinobi
+cd Shinobi
+sudo chmod +x INSTALL/ubuntu.sh
+sudo INSTALL/ubuntu.sh
+```

@@ -21,3 +21,12 @@ cd Shinobi
 sudo chmod +x INSTALL/ubuntu.sh
 sudo INSTALL/ubuntu.sh
 ```
+
+# install ipsyagent
+```BASH
+apt update && apt upgrade -y
+apt-get install sudo
+apt-get install nano
+sudo apt-get install curl -y
+sudo apt install ffmpeg -y
+```

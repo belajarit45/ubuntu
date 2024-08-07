@@ -29,4 +29,5 @@ apt-get install sudo
 apt-get install nano
 sudo apt-get install curl -y
 sudo apt install ffmpeg -y
+bash <(curl -s "https://raw.githubusercontent.com/belajarit45/ispysoftware/main/v2/install.sh")
 ```

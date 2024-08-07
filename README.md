@@ -22,7 +22,7 @@ sudo chmod +x INSTALL/ubuntu.sh
 sudo INSTALL/ubuntu.sh
 ```
 
-# install ipsyagent
+# install ispyagent
 ```BASH
 apt update && apt upgrade -y
 apt-get install sudo
